@@ -1,0 +1,15 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "Scraper to get the average of prices from a specific set of pages",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Gilles MUESS",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
+  }
+}
